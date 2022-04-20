@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+/checkpoints/*
+!/checkpoints/*.md
+!/checkpoints/*.py
+!/checkpoints/*.txt
+
+
+/results/*
+
+/models/*.tar
+/models/*.zip
+

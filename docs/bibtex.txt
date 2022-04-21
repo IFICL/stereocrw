@@ -1,0 +1,7 @@
+@inproceedings{
+    chen2022sound,
+    title={Sound Localization by Self-Supervised Time-Delay Estimation},
+    author={Chen, Ziyang and Fouhey, David F and Owens, Andrew},
+    journal={arXiv},
+    year={2022}
+}

@@ -1,4 +1,4 @@
-Sound Localization by Self-Supervised Time-Delay Estimation
+Sound Localization by Self-Supervised Time Delay Estimation
 ==================================================================
 <h4>
 Ziyang Chen, David F. Fouhey, Andrew Owens
@@ -11,7 +11,7 @@ University of Michigan
 </h4>
 <hr>
 
-This repository contains the official codebase for [Sound Localization by Self-Supervised Time-Delay Estimation](xxxxx). [[Project Page](https://ificl.github.io/stereocrw/)]
+This repository contains the official codebase for [Sound Localization by Self-Supervised Time Delay Estimation](xxxxx). [[Project Page](https://ificl.github.io/stereocrw/)]
 
 <div align="center">
   <img width="100%" alt="StereoCRW Illustration" src="images/method.png">
@@ -131,15 +131,15 @@ If you find this code useful, please consider citing:
 ```text
 @inproceedings{
     chen2022sound,
-    title={Sound Localization by Self-Supervised Time-Delay Estimation},
-    author={Chen, Ziyang and Fouhey, David F and Owens, Andrew},
+    title={Sound Localization by Self-Supervised Time Delay Estimation},
+    author={Chen, Ziyang and Fouhey, David F. and Owens, Andrew},
     journal={arXiv},
     year={2022}
 }
 ```
 
 ## Acknowledgment
-
+This work was funded in part by DARPA Semafor and Cisco Systems. The views, opinions and/or findings expressed are those of the authors and should not be interpreted as representing the official views or policies of the Department of Defense or the U.S. Government.
 
 
 

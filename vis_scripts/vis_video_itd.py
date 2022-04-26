@@ -32,8 +32,6 @@ import models
 from models import *
 from utils import utils, torch_utils
 
-# from binaural_cues import estimate_itd_for_sample
-# from gcc_phat import gcc_phat
 from vis_functs import *
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -61,7 +59,7 @@ def inference(args, pr, net, criterion, data_set, data_loader, device='cuda', vi
             for i in range(aff_L2R.shape[0]):
                 img_path_list.append(img_paths[i])
                 curr_audio = audio[i]
-                # baseline_itd = - estimate_itd_for_sample(curr_audio, fs=audio_rate[i].item(), pr=pr)
+
                 if args.no_baseline:
                     baseline_itd = 0
                 else:

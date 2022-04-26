@@ -1,4 +1,4 @@
-Sound Localization by Self-Supervised Time-Delay Estimation
+Sound Localization by Self-Supervised Time Delay Estimation
 ==================================================================
 <h4>
 Ziyang Chen, David F. Fouhey, Andrew Owens

@@ -11,7 +11,7 @@ University of Michigan
 </h4>
 <hr>
 
-This repository contains the official codebase for [Sound Localization by Self-Supervised Time Delay Estimation](xxxxx). [[Project Page](https://ificl.github.io/stereocrw/)]
+This repository contains the official codebase for [Sound Localization by Self-Supervised Time Delay Estimation](https://arxiv.org/abs/2204.12489). [[Project Page](https://ificl.github.io/stereocrw/)]
 
 <div align="center">
   <img width="100%" alt="StereoCRW Illustration" src="images/method.png">
